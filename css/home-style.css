@@ -136,7 +136,11 @@ body {
   justify-content: space-evenly;
 }
 .container2 ul li {
-  color: red;
+  color: rgb(0, 247, 255);
+  text-decoration: underline;
+}
+.container2 ul li a {
+  color: rgb(0, 238, 255);
   text-decoration: underline;
 }
 @media screen and (max-width: 1200px) {
